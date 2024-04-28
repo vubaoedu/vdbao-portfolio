@@ -100,6 +100,15 @@ h6 {
   text-decoration: none;
 }
 
+#header h6 {
+  text-align: center;
+}
+
+#header h6 a {
+  color: #fcbf16;
+  text-align: center;
+}
+
 #header .social-links a {
   font-size: 18px;
   display: inline-block;
@@ -162,8 +171,7 @@ h6 {
 .nav-menu a,
 .nav-menu a:focus {
   color: #d0d1dd;
-  padding: 12px 15px;
-  margin-bottom: 8px;
+  padding: 6px 15px;
   transition: 0.3s;
   font-size: 15px;
 }
